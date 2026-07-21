@@ -1,0 +1,23 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "npm run site",
+  "outputDirectory": "site/public",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/:slug([a-z0-9-]+)",
+      "has": [{ "type": "header", "key": "accept", "value": ".*application/json.*" }],
+      "destination": "/:slug.json"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)\\.json",
+      "headers": [
+        { "key": "access-control-allow-origin", "value": "*" },
+        { "key": "cache-control", "value": "public, max-age=3600, s-maxage=86400" }
+      ]
+    }
+  ]
+}
