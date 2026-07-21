@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--accent:#E8940A}
+html,body{margin:0;padding:0;background:#FAF9F7;color:#1B1812;font-family:'Instrument Sans',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+a{color:color-mix(in oklab,var(--accent),#1B1812 35%);text-decoration:none}
+a:hover{color:#1B1812}
+::selection{background:color-mix(in oklab,var(--accent),#fff 65%)}
+</style>
+</helmet>
+<div style="min-height:100vh">
+  <!-- NAV -->
+  <div style="max-width:1120px;margin:0 auto;padding:18px 32px;display:flex;align-items:center;justify-content:space-between">
+    <div style="display:flex;align-items:center;gap:10px">
+      <sc-if value="{{isSmile}}" hint-placeholder-val="{{true}}"><svg width="28" height="28" viewBox="0 0 28 28"><rect width="28" height="28" rx="8" fill="var(--accent)"></rect><circle cx="9.5" cy="11.5" r="2" fill="#1B1812"></circle><circle cx="18.5" cy="11.5" r="2" fill="#1B1812"></circle><path d="M8.5 16.5c1.5 2.2 3.3 3.3 5.5 3.3s4-1.1 5.5-3.3" stroke="#1B1812" stroke-width="2.4" stroke-linecap="round" fill="none"></path></svg></sc-if>
+      <sc-if value="{{isDots}}" hint-placeholder-val="{{false}}"><svg width="28" height="28" viewBox="0 0 28 28"><circle cx="9" cy="10" r="6.5" fill="var(--accent)" stroke="#FAF9F7" stroke-width="2"></circle><circle cx="19" cy="10" r="6.5" fill="var(--accent)" stroke="#FAF9F7" stroke-width="2"></circle><circle cx="14" cy="18.5" r="6.5" fill="var(--accent)" stroke="#FAF9F7" stroke-width="2"></circle></svg></sc-if>
+      <sc-if value="{{isGrid}}" hint-placeholder-val="{{false}}"><svg width="28" height="28" viewBox="0 0 28 28"><rect x="1" y="1" width="12" height="12" rx="4" fill="var(--accent)"></rect><rect x="15" y="1" width="12" height="12" rx="4" fill="#DFD9CE"></rect><rect x="1" y="15" width="12" height="12" rx="4" fill="#DFD9CE"></rect><rect x="15" y="15" width="12" height="12" rx="4" fill="#DFD9CE"></rect></svg></sc-if>
+      <div style="font-size:17px;font-weight:700;letter-spacing:-0.02em">emoji<span style="font-weight:400;color:#8A8578">.group</span></div>
+    </div>
+    <div style="display:flex;align-items:center;gap:8px">
+      <a href="#docs" style="font-size:13.5px;font-weight:500;color:#4A463D;padding:7px 12px;border-radius:7px" style-hover="{{navHover}}">Docs</a>
+      <a href="#collections" style="font-size:13.5px;font-weight:500;color:#4A463D;padding:7px 12px;border-radius:7px" style-hover="{{navHover}}">Collections</a>
+      <a href="#safety" style="font-size:13.5px;font-weight:500;color:#4A463D;padding:7px 12px;border-radius:7px" style-hover="{{navHover}}">Safety</a>
+      <a href="#changelog" style="font-size:13.5px;font-weight:500;color:#4A463D;padding:7px 12px;border-radius:7px;margin-right:6px" style-hover="{{navHover}}">Changelog</a>
+      <a href="#get" style="font-size:13.5px;font-weight:600;background:#1B1812;color:#FAF9F7;padding:8px 16px;border-radius:8px" style-hover="{{darkBtnHover}}">Get the data</a>
+    </div>
+  </div>
+
+  <!-- HERO -->
+  <div style="max-width:1120px;margin:0 auto;padding:64px 32px 0;text-align:center">
+    <div style="display:inline-flex;align-items:center;gap:8px;font-family:'JetBrains Mono',monospace;font-size:11.5px;font-weight:500;color:#6B6558;border:1px solid #E7E2D8;background:#fff;border-radius:999px;padding:6px 14px">
+      <span style="width:7px;height:7px;border-radius:50%;background:var(--accent);display:inline-block"></span>
+      v2026-07-14 · 3,958 emojis · 41 collections
+    </div>
+    <h1 style="font-size:58px;font-weight:650;letter-spacing:-0.035em;line-height:1.05;margin:26px auto 18px;max-width:720px;text-wrap:balance">The emoji database, curated</h1>
+    <p style="font-size:17px;line-height:1.55;color:#6B6558;max-width:520px;margin:0 auto 30px;text-wrap:pretty">Hand-reviewed collections, skin tone and gender variants, and safety blocklists. Static JSON on a CDN, one GET away.</p>
+    <div style="display:flex;justify-content:center;align-items:center;gap:18px">
+      <a href="#collections" style="font-size:14.5px;font-weight:600;background:#1B1812;color:#FAF9F7;padding:12px 22px;border-radius:9px" style-hover="{{darkBtnHover}}">Browse collections</a>
+      <a href="#docs" style="font-size:14px;font-weight:600">Read the docs →</a>
+    </div>
+
+    <!-- HERO MOCKUP -->
+    <div style="margin:56px auto 0;max-width:980px;background:#fff;border:1px solid #E7E2D8;border-radius:14px;box-shadow:0 24px 60px -30px rgba(27,24,18,0.18),0 2px 6px rgba(27,24,18,0.04);overflow:hidden;text-align:left;display:flex">
+      <!-- sidebar -->
+      <div style="width:198px;flex:none;border-right:1px solid #F0EBE1;background:#FCFBF8;padding:14px 10px;display:flex;flex-direction:column;gap:2px">
+        <div style="display:flex;align-items:center;gap:8px;padding:6px 8px 12px">
+          <svg width="18" height="18" viewBox="0 0 28 28"><rect width="28" height="28" rx="8" fill="var(--accent)"></rect><circle cx="9.5" cy="11.5" r="2" fill="#1B1812"></circle><circle cx="18.5" cy="11.5" r="2" fill="#1B1812"></circle><path d="M8.5 16.5c1.5 2.2 3.3 3.3 5.5 3.3s4-1.1 5.5-3.3" stroke="#1B1812" stroke-width="2.4" stroke-linecap="round" fill="none"></path></svg>
+          <span style="font-size:12.5px;font-weight:700;letter-spacing:-0.01em">emoji.group</span>
+        </div>
+        <div style="font-size:12px;font-weight:600;color:#1B1812;background:#F0EBE1;border-radius:6px;padding:6px 10px">▦&nbsp;&nbsp;Collections</div>
+        <div style="font-size:12px;font-weight:500;color:#8A8578;padding:6px 10px">◎&nbsp;&nbsp;All emojis</div>
+        <div style="font-size:12px;font-weight:500;color:#8A8578;padding:6px 10px">⛨&nbsp;&nbsp;Blocklists</div>
+        <div style="font-size:12px;font-weight:500;color:#8A8578;padding:6px 10px">✓&nbsp;&nbsp;Review queue</div>
+        <div style="font-size:12px;font-weight:500;color:#8A8578;padding:6px 10px">↧&nbsp;&nbsp;Exports</div>
+        <div style="flex:1"></div>
+        <div style="font-size:12px;font-weight:500;color:#8A8578;padding:6px 10px">⚙&nbsp;&nbsp;Settings</div>
+      </div>
+      <!-- table -->
+      <div style="flex:1;min-width:0">
+        <div style="display:flex;align-items:center;justify-content:space-between;padding:13px 18px;border-bottom:1px solid #F0EBE1">
+          <div style="font-size:13.5px;font-weight:650">Collections</div>
+          <div style="display:flex;align-items:center;gap:14px;font-size:11px;font-weight:500;color:#A39D8E">
+            <span>facet</span><span>count</span><span>reviewed</span><span>status</span>
+            <span style="font-size:11.5px;font-weight:600;background:#1B1812;color:#FAF9F7;padding:5px 11px;border-radius:6px">New</span>
+          </div>
+        </div>
+        <div style="padding:6px 0 10px;font-size:12.5px">
+          <div style="padding:9px 18px 5px;font-family:'JetBrains Mono',monospace;font-size:10.5px;font-weight:600;letter-spacing:0.08em;color:#A39D8E">VIBE</div>
+          <div style="display:grid;grid-template-columns:1fr 64px 56px 66px 70px;gap:8px;align-items:center;padding:6px 18px">
+            <div style="display:flex;align-items:center;gap:9px;min-width:0"><span style="font-size:15px;letter-spacing:2px">🕯️🧸☕</span><span style="font-family:'JetBrains Mono',monospace;font-weight:500">cozy</span></div>
+            <span style="color:#A39D8E">vibe</span><span style="color:#6B6558;text-align:right">48</span><span style="color:#6B6558;text-align:right">100%</span>
+            <span style="justify-self:end;font-size:10.5px;font-weight:600;color:#2F7A4D;background:#EAF3EC;border-radius:5px;padding:3px 8px">Live</span>
+          </div>
+          <div style="display:grid;grid-template-columns:1fr 64px 56px 66px 70px;gap:8px;align-items:center;padding:6px 18px">
+            <div style="display:flex;align-items:center;gap:9px;min-width:0"><span style="font-size:15px;letter-spacing:2px">🎃👻🕷️</span><span style="font-family:'JetBrains Mono',monospace;font-weight:500">spooky</span></div>
+            <span style="color:#A39D8E">vibe</span><span style="color:#6B6558;text-align:right">32</span><span style="color:#6B6558;text-align:right">100%</span>
+            <span style="justify-self:end;font-size:10.5px;font-weight:600;color:#2F7A4D;background:#EAF3EC;border-radius:5px;padding:3px 8px">Live</span>
+          </div>
+          <div style="display:grid;grid-template-columns:1fr 64px 56px 66px 70px;gap:8px;align-items:center;padding:6px 18px">
+            <div style="display:flex;align-items:center;gap:9px;min-width:0"><span style="font-size:15px;letter-spacing:2px">📼🕹️📟</span><span style="font-family:'JetBrains Mono',monospace;font-weight:500">retro</span></div>
+            <span style="color:#A39D8E">vibe</span><span style="color:#6B6558;text-align:right">27</span><span style="color:#6B6558;text-align:right">88%</span>
+            <span style="justify-self:end;font-size:10.5px;font-weight:600;color:#96690B;background:#F7EEDA;border-radius:5px;padding:3px 8px">Review</span>
+          </div>
+          <div style="padding:11px 18px 5px;font-family:'JetBrains Mono',monospace;font-size:10.5px;font-weight:600;letter-spacing:0.08em;color:#A39D8E">COLOR</div>
+          <div style="display:grid;grid-template-columns:1fr 64px 56px 66px 70px;gap:8px;align-items:center;padding:6px 18px">
+            <div style="display:flex;align-items:center;gap:9px;min-width:0"><span style="font-size:15px;letter-spacing:2px">🍏🐸🌵</span><span style="font-family:'JetBrains Mono',monospace;font-weight:500">green</span></div>
+            <span style="color:#A39D8E">color</span><span style="color:#6B6558;text-align:right">61</span><span style="color:#6B6558;text-align:right">100%</span>
+            <span style="justify-self:end;font-size:10.5px;font-weight:600;color:#2F7A4D;background:#EAF3EC;border-radius:5px;padding:3px 8px">Live</span>
+          </div>
+          <div style="display:grid;grid-template-columns:1fr 64px 56px 66px 70px;gap:8px;align-items:center;padding:6px 18px">
+            <div style="display:flex;align-items:center;gap:9px;min-width:0"><span style="font-size:15px;letter-spacing:2px">🌸🦩🎀</span><span style="font-family:'JetBrains Mono',monospace;font-weight:500">pink</span></div>
+            <span style="color:#A39D8E">color</span><span style="color:#6B6558;text-align:right">44</span><span style="color:#6B6558;text-align:right">100%</span>
+            <span style="justify-self:end;font-size:10.5px;font-weight:600;color:#2F7A4D;background:#EAF3EC;border-radius:5px;padding:3px 8px">Live</span>
+          </div>
+          <div style="padding:11px 18px 5px;font-family:'JetBrains Mono',monospace;font-size:10.5px;font-weight:600;letter-spacing:0.08em;color:#A39D8E">SAFETY · EXCLUDE MODE</div>
+          <div style="display:grid;grid-template-columns:1fr 64px 56px 66px 70px;gap:8px;align-items:center;padding:6px 18px">
+            <div style="display:flex;align-items:center;gap:9px;min-width:0"><span style="font-size:15px;letter-spacing:2px">🗡️🔫💣</span><span style="font-family:'JetBrains Mono',monospace;font-weight:500">violent</span></div>
+            <span style="color:#A39D8E">safety</span><span style="color:#6B6558;text-align:right">33</span><span style="color:#6B6558;text-align:right">100%</span>
+            <span style="justify-self:end;font-size:10.5px;font-weight:600;color:#2F7A4D;background:#EAF3EC;border-radius:5px;padding:3px 8px">Live</span>
+          </div>
+          <div style="display:grid;grid-template-columns:1fr 64px 56px 66px 70px;gap:8px;align-items:center;padding:6px 18px">
+            <div style="display:flex;align-items:center;gap:9px;min-width:0"><span style="font-size:15px;letter-spacing:2px">🍺🚬🎰</span><span style="font-family:'JetBrains Mono',monospace;font-weight:500">substances</span></div>
+            <span style="color:#A39D8E">safety</span><span style="color:#6B6558;text-align:right">29</span><span style="color:#6B6558;text-align:right">72%</span>
+            <span style="justify-self:end;font-size:10.5px;font-weight:600;color:#96690B;background:#F7EEDA;border-radius:5px;padding:3px 8px">Review</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- COLLECTIONS -->
+  <div id="collections" style="max-width:1120px;margin:0 auto;padding:110px 32px 0;text-align:center">
+    <div style="font-family:'JetBrains Mono',monospace;font-size:11.5px;font-weight:600;letter-spacing:0.1em;color:color-mix(in oklab,var(--accent),#1B1812 25%)">COLLECTIONS</div>
+    <h2 style="font-size:34px;font-weight:650;letter-spacing:-0.025em;margin:12px 0 46px">Sorted by how people actually use them</h2>
+    <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:14px;text-align:left">
+      <div style="background:#fff;border:1px solid #E7E2D8;border-radius:12px;padding:22px">
+        <div style="font-size:15px;font-weight:650;margin-bottom:4px">Vibe</div>
+        <div style="font-size:13px;color:#8A8578;margin-bottom:16px">The feeling it gives off.</div>
+        <div style="display:flex;flex-wrap:wrap;gap:8px">
+          <span style="display:inline-flex;align-items:center;gap:6px;border:1px solid #E7E2D8;border-radius:999px;padding:5px 11px;font-family:'JetBrains Mono',monospace;font-size:12px">🕯️ cozy <span style="color:#A39D8E">48</span></span>
+          <span style="display:inline-flex;align-items:center;gap:6px;border:1px solid #E7E2D8;border-radius:999px;padding:5px 11px;font-family:'JetBrains Mono',monospace;font-size:12px">🎃 spooky <span style="color:#A39D8E">32</span></span>
+          <span style="display:inline-flex;align-items:center;gap:6px;border:1px solid #E7E2D8;border-radius:999px;padding:5px 11px;font-family:'JetBrains Mono',monospace;font-size:12px">💌 romantic <span style="color:#A39D8E">36</span></span>
+          <span style="display:inline-flex;align-items:center;gap:6px;border:1px solid #E7E2D8;border-radius:999px;padding:5px 11px;font-family:'JetBrains Mono',monospace;font-size:12px">🕹️ retro <span style="color:#A39D8E">27</span></span>
+          <span style="display:inline-flex;align-items:center;gap:6px;border:1px solid #E7E2D8;border-radius:999px;padding:5px 11px;font-family:'JetBrains Mono',monospace;font-size:12px">🎉 festive <span style="color:#A39D8E">41</span></span>
+        </div>
+      </div>
+      <div style="background:#fff;border:1px solid #E7E2D8;border-radius:12px;padding:22px">
+        <div style="font-size:15px;font-weight:650;margin-bottom:4px">Object</div>
+        <div style="font-size:13px;color:#8A8578;margin-bottom:16px">The thing it depicts.</div>
+        <div style="display:flex;flex-wrap:wrap;gap:8px">
+          <span style="display:inline-flex;align-items:center;gap:6px;border:1px solid #E7E2D8;border-radius:999px;padding:5px 11px;font-family:'JetBrains Mono',monospace;font-size:12px">🍜 food <span style="color:#A39D8E">129</span></span>
+          <span style="display:inline-flex;align-items:center;gap:6px;border:1px solid #E7E2D8;border-radius:999px;padding:5px 11px;font-family:'JetBrains Mono',monospace;font-size:12px">🚙 vehicle <span style="color:#A39D8E">52</span></span>
+          <span style="display:inline-flex;align-items:center;gap:6px;border:1px solid #E7E2D8;border-radius:999px;padding:5px 11px;font-family:'JetBrains Mono',monospace;font-size:12px">🎻 instrument <span style="color:#A39D8E">14</span></span>
+          <span style="display:inline-flex;align-items:center;gap:6px;border:1px solid #E7E2D8;border-radius:999px;padding:5px 11px;font-family:'JetBrains Mono',monospace;font-size:12px">🔧 tool <span style="color:#A39D8E">31</span></span>
+          <span style="display:inline-flex;align-items:center;gap:6px;border:1px solid #E7E2D8;border-radius:999px;padding:5px 11px;font-family:'JetBrains Mono',monospace;font-size:12px">🧢 clothing <span style="color:#A39D8E">38</span></span>
+        </div>
+      </div>
+      <div style="background:#fff;border:1px solid #E7E2D8;border-radius:12px;padding:22px">
+        <div style="font-size:15px;font-weight:650;margin-bottom:4px">Domain</div>
+        <div style="font-size:13px;color:#8A8578;margin-bottom:16px">The industry it belongs to.</div>
+        <div style="display:flex;flex-wrap:wrap;gap:8px">
+          <span style="display:inline-flex;align-items:center;gap:6px;border:1px solid #E7E2D8;border-radius:999px;padding:5px 11px;font-family:'JetBrains Mono',monospace;font-size:12px">📦 logistics <span style="color:#A39D8E">23</span></span>
+          <span style="display:inline-flex;align-items:center;gap:6px;border:1px solid #E7E2D8;border-radius:999px;padding:5px 11px;font-family:'JetBrains Mono',monospace;font-size:12px">🩺 healthcare <span style="color:#A39D8E">26</span></span>
+          <span style="display:inline-flex;align-items:center;gap:6px;border:1px solid #E7E2D8;border-radius:999px;padding:5px 11px;font-family:'JetBrains Mono',monospace;font-size:12px">🏗️ construction <span style="color:#A39D8E">19</span></span>
+          <span style="display:inline-flex;align-items:center;gap:6px;border:1px solid #E7E2D8;border-radius:999px;padding:5px 11px;font-family:'JetBrains Mono',monospace;font-size:12px">🎮 gaming <span style="color:#A39D8E">22</span></span>
+          <span style="display:inline-flex;align-items:center;gap:6px;border:1px solid #E7E2D8;border-radius:999px;padding:5px 11px;font-family:'JetBrains Mono',monospace;font-size:12px">✈️ travel <span style="color:#A39D8E">47</span></span>
+        </div>
+      </div>
+    </div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:14px;text-align:left">
+      <div style="background:#fff;border:1px solid #E7E2D8;border-radius:12px;padding:22px">
+        <div style="font-size:15px;font-weight:650;margin-bottom:4px">Color</div>
+        <div style="font-size:13px;color:#8A8578;margin-bottom:16px;text-wrap:pretty">Dominant hue, measured from the artwork. Tagged only when one hue covers 45% of the fill.</div>
+        <div style="display:flex;flex-wrap:wrap;gap:8px">
+          <span style="display:inline-flex;align-items:center;gap:7px;border:1px solid #E7E2D8;border-radius:999px;padding:5px 11px;font-family:'JetBrains Mono',monospace;font-size:12px"><span style="width:9px;height:9px;border-radius:50%;background:#D84A3A;display:inline-block"></span>red 🍎🌹🧯</span>
+          <span style="display:inline-flex;align-items:center;gap:7px;border:1px solid #E7E2D8;border-radius:999px;padding:5px 11px;font-family:'JetBrains Mono',monospace;font-size:12px"><span style="width:9px;height:9px;border-radius:50%;background:#4A7DD8;display:inline-block"></span>blue 🫐💧🧊</span>
+          <span style="display:inline-flex;align-items:center;gap:7px;border:1px solid #E7E2D8;border-radius:999px;padding:5px 11px;font-family:'JetBrains Mono',monospace;font-size:12px"><span style="width:9px;height:9px;border-radius:50%;background:#8B6BD8;display:inline-block"></span>purple 🍇🔮😈</span>
+          <span style="display:inline-flex;align-items:center;gap:7px;border:1px solid #E7E2D8;border-radius:999px;padding:5px 11px;font-family:'JetBrains Mono',monospace;font-size:12px"><span style="width:9px;height:9px;border-radius:50%;background:#E0B33A;display:inline-block"></span>yellow 🌻🍋⭐</span>
+        </div>
+      </div>
+      <div style="background:#fff;border:1px solid #E7E2D8;border-radius:12px;padding:22px">
+        <div style="font-size:15px;font-weight:650;margin-bottom:4px">Variants, first-class</div>
+        <div style="font-size:13px;color:#8A8578;margin-bottom:16px;text-wrap:pretty">Every skin tone and gender variant is its own record, pointing at its base. Tags inherit automatically.</div>
+        <div style="display:flex;flex-direction:column;gap:10px">
+          <div style="display:flex;align-items:center;gap:12px"><span style="font-size:20px;letter-spacing:4px">👋 👋🏻 👋🏼 👋🏽 👋🏾 👋🏿</span><span style="font-family:'JetBrains Mono',monospace;font-size:11px;color:#A39D8E">skin_tone: 1–5</span></div>
+          <div style="display:flex;align-items:center;gap:12px"><span style="font-size:20px;letter-spacing:4px">🧑‍🚒 👨‍🚒 👩‍🚒</span><span style="font-family:'JetBrains Mono',monospace;font-size:11px;color:#A39D8E">gender: neutral · male · female</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- DEVELOPERS -->
+  <div id="docs" style="max-width:1120px;margin:0 auto;padding:110px 32px 0;text-align:center">
+    <div style="font-family:'JetBrains Mono',monospace;font-size:11.5px;font-weight:600;letter-spacing:0.1em;color:color-mix(in oklab,var(--accent),#1B1812 25%)">DEVELOPERS</div>
+    <h2 style="font-size:34px;font-weight:650;letter-spacing:-0.025em;margin:12px 0 46px">No SDK. No API key. Just JSON.</h2>
+    <div style="max-width:860px;margin:0 auto;background:#fff;border:1px solid #E7E2D8;border-radius:12px;overflow:hidden;text-align:left">
+      <div style="display:flex;gap:2px;padding:10px 14px 0;border-bottom:1px solid #F0EBE1;font-family:'JetBrains Mono',monospace;font-size:12px">
+        <span style="padding:8px 12px;border-bottom:2px solid #1B1812;font-weight:600">cozy.json</span>
+        <span style="padding:8px 12px;color:#A39D8E">index.json</span>
+        <span style="padding:8px 12px;color:#A39D8E">blocklists/violent.json</span>
+        <span style="padding:8px 12px;color:#A39D8E">emojis.json</span>
+      </div>
+      <div style="display:flex;align-items:center;gap:10px;padding:12px 18px;border-bottom:1px solid #F0EBE1;background:#FCFBF8">
+        <span style="font-family:'JetBrains Mono',monospace;font-size:10.5px;font-weight:600;color:#2F7A4D;background:#EAF3EC;border-radius:5px;padding:3px 8px">GET</span>
+        <span style="font-family:'JetBrains Mono',monospace;font-size:12.5px;color:#4A463D">https://cdn.emoji.group/collections/cozy.json</span>
+        <span style="margin-left:auto;font-family:'JetBrains Mono',monospace;font-size:11px;color:#A39D8E">copy ⧉</span>
+      </div>
+      <pre style="margin:0;padding:18px 22px;font-family:'JetBrains Mono',monospace;font-size:12.5px;line-height:1.75;color:#4A463D;overflow-x:auto">{
+  <span style="color:#96690B">"slug"</span>: <span style="color:#2F7A4D">"cozy"</span>,
+  <span style="color:#96690B">"title"</span>: <span style="color:#2F7A4D">"Cozy"</span>,
+  <span style="color:#96690B">"facet"</span>: <span style="color:#2F7A4D">"vibe"</span>,
+  <span style="color:#96690B">"mode"</span>: <span style="color:#2F7A4D">"include"</span>,
+  <span style="color:#96690B">"count"</span>: 48,
+  <span style="color:#96690B">"version"</span>: <span style="color:#2F7A4D">"2026-07-14"</span>,
+  <span style="color:#96690B">"emojis"</span>: ["🕯️", "🧸", "☕", "🧦", "🍵", "🛋️", "🔥", "🍞", "🌧️", …]
+}</pre>
+    </div>
+    <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:14px;max-width:860px;margin:14px auto 0;text-align:left">
+      <div style="background:#fff;border:1px solid #E7E2D8;border-radius:12px;padding:20px">
+        <div style="font-size:14px;font-weight:650;margin-bottom:5px">Deterministic</div>
+        <div style="font-size:13px;line-height:1.5;color:#8A8578">Same input, same output. Stable codepoint order, byte-for-byte reproducible builds.</div>
+      </div>
+      <div style="background:#fff;border:1px solid #E7E2D8;border-radius:12px;padding:20px">
+        <div style="font-size:14px;font-weight:650;margin-bottom:5px">Versioned by date</div>
+        <div style="font-size:13px;line-height:1.5;color:#8A8578">Pin a build and nothing ever changes underneath you. Upgrade when you choose.</div>
+      </div>
+      <div style="background:#fff;border:1px solid #E7E2D8;border-radius:12px;padding:20px">
+        <div style="font-size:14px;font-weight:650;margin-bottom:5px">Cache forever</div>
+        <div style="font-size:13px;line-height:1.5;color:#8A8578">Static files on a CDN. Ship it to the client, bundle it, or mirror the whole thing.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SAFETY -->
+  <div id="safety" style="max-width:1120px;margin:0 auto;padding:110px 32px 0;text-align:center">
+    <div style="font-family:'JetBrains Mono',monospace;font-size:11.5px;font-weight:600;letter-spacing:0.1em;color:color-mix(in oklab,var(--accent),#1B1812 25%)">SAFETY</div>
+    <h2 style="font-size:34px;font-weight:650;letter-spacing:-0.025em;margin:12px 0 16px">Blocklists a human signed off on</h2>
+    <p style="font-size:15.5px;line-height:1.55;color:#6B6558;max-width:560px;margin:0 auto 46px;text-wrap:pretty">Suggestive, violent, substances, gambling. Every safety tag passes three gates before it ships, and the build fails if one hasn't.</p>
+    <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:14px;max-width:980px;margin:0 auto;text-align:left">
+      <div style="background:#fff;border:1px solid #E7E2D8;border-radius:12px;padding:22px">
+        <div style="font-family:'JetBrains Mono',monospace;font-size:11px;font-weight:600;color:color-mix(in oklab,var(--accent),#1B1812 25%);margin-bottom:10px">STEP 1</div>
+        <div style="font-size:15px;font-weight:650;margin-bottom:5px">Programmatic pass</div>
+        <div style="font-size:13px;line-height:1.55;color:#8A8578">Codepoints, ZWJ sequences and artwork analysis tag everything a rule can prove.</div>
+      </div>
+      <div style="background:#fff;border:1px solid #E7E2D8;border-radius:12px;padding:22px">
+        <div style="font-family:'JetBrains Mono',monospace;font-size:11px;font-weight:600;color:color-mix(in oklab,var(--accent),#1B1812 25%);margin-bottom:10px">STEP 2</div>
+        <div style="font-size:15px;font-weight:650;margin-bottom:5px">Model proposals</div>
+        <div style="font-size:13px;line-height:1.55;color:#8A8578">An LLM tags against a closed vocabulary with a confidence score. It can propose, never publish.</div>
+      </div>
+      <div style="background:#fff;border:1px solid #E7E2D8;border-radius:12px;padding:22px">
+        <div style="font-family:'JetBrains Mono',monospace;font-size:11px;font-weight:600;color:color-mix(in oklab,var(--accent),#1B1812 25%);margin-bottom:10px">STEP 3</div>
+        <div style="font-size:15px;font-weight:650;margin-bottom:5px">Human review</div>
+        <div style="font-size:13px;line-height:1.55;color:#8A8578">A person approves every safety tag. The compiler rejects any that a human hasn't seen.</div>
+      </div>
+    </div>
+    <div style="max-width:980px;margin:14px auto 0;background:#fff;border:1px solid #E7E2D8;border-radius:12px;padding:18px 22px;display:flex;align-items:center;gap:14px;text-align:left">
+      <span style="font-size:22px">🧒</span>
+      <div style="font-size:13.5px;line-height:1.5;color:#6B6558"><span style="font-weight:650;color:#1B1812">Kid-safe is derived, not tagged.</span> It's everything minus the safety blocklists, computed at build time, so it can never drift out of sync.</div>
+      <span style="margin-left:auto;font-family:'JetBrains Mono',monospace;font-size:11.5px;color:#A39D8E;white-space:nowrap">blocklists/*.json · mode: "exclude"</span>
+    </div>
+  </div>
+
+  <!-- MANIFESTO -->
+  <div style="max-width:1120px;margin:0 auto;padding:110px 32px 0">
+    <div style="max-width:860px;margin:0 auto;background:#fff;border:1px solid #E7E2D8;border-radius:14px;padding:44px 48px">
+      <div style="font-size:18px;font-weight:650;margin-bottom:18px">We want emoji to be boring.</div>
+      <div style="font-size:14.5px;line-height:1.7;color:#4A463D;max-width:560px;display:flex;flex-direction:column;gap:14px">
+        <p style="margin:0">Every app rebuilds the same lists. Which emojis are food. Which are safe for kids. Which ones are actually purple. Then Unicode ships a new version, and the lists quietly rot.</p>
+        <p style="margin:0">emoji.group is that work done once, in the open: deterministic builds, human-reviewed safety tags, and static JSON that will still resolve in ten years.</p>
+        <p style="margin:0">Pin a version and forget about us. That's the point.</p>
+      </div>
+      <div style="margin-top:26px;font-family:'JetBrains Mono',monospace;font-size:12.5px;color:#8A8578">— the emoji.group team 🫶</div>
+    </div>
+  </div>
+
+  <!-- CTA + FOOTER -->
+  <div id="get" style="max-width:1120px;margin:0 auto;padding:90px 32px 40px;text-align:center">
+    <div style="font-size:26px;font-weight:650;letter-spacing:-0.02em;margin-bottom:22px">Start with one GET</div>
+    <div style="display:inline-flex;align-items:center;gap:12px;background:#1B1812;border-radius:10px;padding:14px 20px;font-family:'JetBrains Mono',monospace;font-size:13px;color:#FAF9F7"><span style="color:#8A8578">$</span> curl https://cdn.emoji.group/collections/index.json<span style="color:var(--accent)">▌</span></div>
+  </div>
+  <div style="border-top:1px solid #E7E2D8">
+    <div style="max-width:1120px;margin:0 auto;padding:44px 32px 52px;display:flex;gap:60px;flex-wrap:wrap">
+      <div style="flex:1;min-width:220px">
+        <div style="display:flex;align-items:center;gap:9px;margin-bottom:10px">
+          <svg width="22" height="22" viewBox="0 0 28 28"><rect width="28" height="28" rx="8" fill="var(--accent)"></rect><circle cx="9.5" cy="11.5" r="2" fill="#1B1812"></circle><circle cx="18.5" cy="11.5" r="2" fill="#1B1812"></circle><path d="M8.5 16.5c1.5 2.2 3.3 3.3 5.5 3.3s4-1.1 5.5-3.3" stroke="#1B1812" stroke-width="2.4" stroke-linecap="round" fill="none"></path></svg>
+          <span style="font-size:15px;font-weight:700">emoji<span style="font-weight:400;color:#8A8578">.group</span></span>
+        </div>
+        <div style="font-size:13px;color:#8A8578">The emoji database, curated.</div>
+        <div style="font-size:12px;color:#A39D8E;margin-top:20px">© 2026 emoji.group</div>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:9px;font-size:13px">
+        <div style="font-weight:650;font-size:12.5px;margin-bottom:3px">Data</div>
+        <a href="#docs" style="color:#6B6558">emojis.json</a>
+        <a href="#collections" style="color:#6B6558">Collections</a>
+        <a href="#safety" style="color:#6B6558">Blocklists</a>
+        <a href="#changelog" style="color:#6B6558">Changelog</a>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:9px;font-size:13px">
+        <div style="font-weight:650;font-size:12.5px;margin-bottom:3px">Resources</div>
+        <a href="#docs" style="color:#6B6558">Docs</a>
+        <a href="#docs" style="color:#6B6558">JSON schema</a>
+        <a href="#docs" style="color:#6B6558">Versioning</a>
+        <a href="#docs" style="color:#6B6558">Status</a>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:9px;font-size:13px">
+        <div style="font-weight:650;font-size:12.5px;margin-bottom:3px">Company</div>
+        <a href="#" style="color:#6B6558">About</a>
+        <a href="#" style="color:#6B6558">Contact</a>
+        <a href="#" style="color:#6B6558">GitHub</a>
+      </div>
+    </div>
+  </div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;accent&quot;:{&quot;editor&quot;:&quot;color&quot;,&quot;default&quot;:&quot;#E8940A&quot;,&quot;options&quot;:[&quot;#E8940A&quot;,&quot;#E4572E&quot;,&quot;#7C6BF0&quot;,&quot;#2F9E6E&quot;],&quot;tsType&quot;:&quot;string&quot;,&quot;section&quot;:&quot;Brand&quot;},&quot;logoMark&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;default&quot;:&quot;smile&quot;,&quot;options&quot;:[&quot;smile&quot;,&quot;dots&quot;,&quot;grid&quot;],&quot;tsType&quot;:&quot;string&quot;,&quot;section&quot;:&quot;Brand&quot;}}">
+class Component extends DCLogic {
+  renderVals() {
+    const mark = this.props.logoMark ?? "smile";
+    const accent = this.props.accent ?? "#E8940A";
+    document.documentElement.style.setProperty("--accent", accent);
+    return {
+      isSmile: mark === "smile",
+      isDots: mark === "dots",
+      isGrid: mark === "grid",
+      navHover: { background: "#F0EBE1", color: "#1B1812" },
+      darkBtnHover: { background: "#3A362C", color: "#FAF9F7" }
+    };
+  }
+}
+</script>
+</body>
+</html>

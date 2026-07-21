@@ -1,0 +1,25 @@
+{
+  "name": "emoji-collections",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Data pipeline that produces a static JSON emoji API for emoji.group",
+  "scripts": {
+    "ingest": "node scripts/ingest.js",
+    "expand": "node scripts/expand.js",
+    "tag:programmatic": "node scripts/tag-programmatic.js",
+    "tag:color": "node scripts/tag-color.js",
+    "tag": "node scripts/tag-llm.js",
+    "review": "node server/review.js",
+    "build": "node scripts/compile.js",
+    "check": "node scripts/verify.js",
+    "pipeline": "npm run ingest && npm run expand && npm run tag:programmatic && npm run build && npm run check",
+    "site": "node site/build-site.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1",
+    "@resvg/resvg-js": "^2.6.2",
+    "ajv": "^8.17.1",
+    "emojibase-data": "^16.0.3"
+  }
+}
