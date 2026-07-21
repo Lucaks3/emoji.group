@@ -194,7 +194,7 @@ function buildLanding(meta, index, sampleByFacet) {
       <p>emoji.group is that work done once, in the open: deterministic builds, human reviewed safety tags, and static JSON that will still resolve in ten years.</p>
       <p>Pin a version and forget about us. That is the point.</p>
     </div>
-    <div class="sig">— the emoji.group team 🫶</div>
+    <div class="sig">· the emoji.group team 🫶</div>
   </div>
 </section>
 
