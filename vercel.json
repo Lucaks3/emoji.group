@@ -16,7 +16,19 @@
       "source": "/(.*)\\.json",
       "headers": [
         { "key": "access-control-allow-origin", "value": "*" },
-        { "key": "cache-control", "value": "public, max-age=3600, s-maxage=86400" }
+        { "key": "cache-control", "value": "public, max-age=3600, s-maxage=31536000, stale-while-revalidate=86400" }
+      ]
+    },
+    {
+      "source": "/(.*)\\.(css|js|svg|png|txt|xml)",
+      "headers": [
+        { "key": "cache-control", "value": "public, max-age=86400, s-maxage=31536000, stale-while-revalidate=86400" }
+      ]
+    },
+    {
+      "source": "/((?!.*\\.).*)",
+      "headers": [
+        { "key": "cache-control", "value": "public, max-age=600, s-maxage=31536000, stale-while-revalidate=86400" }
       ]
     }
   ]
