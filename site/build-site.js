@@ -118,7 +118,7 @@ function footer(meta) {
   </div>
   <div class="footcol">
     <h4>Project</h4>
-    <a href="https://github.com/Lucaks3/emoji.group" rel="noopener">GitHub</a>
+    <a href="https://github.com/lucashuizinga/emoji.group" rel="noopener">GitHub</a>
     <a href="/#manifesto">Manifesto</a>
   </div>
 </footer>`;
