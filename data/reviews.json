@@ -116,6 +116,9 @@
   "🔫": {
     "safety::violent": "approved"
   },
+  "🖕": {
+    "safety::offensive": "approved"
+  },
   "🗡️": {
     "safety::violent": "approved"
   },
@@ -124,6 +127,9 @@
   },
   "🚬": {
     "safety::substances": "approved"
+  },
+  "🤬": {
+    "safety::offensive": "approved"
   },
   "🥂": {
     "safety::substances": "approved"

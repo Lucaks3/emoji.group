@@ -1,0 +1,25 @@
+{
+  "slug": "shopping",
+  "tag": "shopping",
+  "title": "Shopping",
+  "facet": "theme",
+  "mode": "include",
+  "emojis": [
+    "🎁",
+    "🏪",
+    "🏬",
+    "🏷️",
+    "👗",
+    "👜",
+    "👠",
+    "💰️",
+    "💳️",
+    "💸",
+    "🛍️",
+    "🛒",
+    "🧾",
+    "🪙"
+  ],
+  "count": 14,
+  "version": "2026-07-21"
+}

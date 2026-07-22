@@ -1,0 +1,23 @@
+{
+  "slug": "flowers",
+  "tag": "flowers",
+  "title": "Flowers",
+  "facet": "category",
+  "mode": "include",
+  "emojis": [
+    "🌷",
+    "🌸",
+    "🌹",
+    "🌺",
+    "🌻",
+    "🌼",
+    "🏵️",
+    "💐",
+    "💮",
+    "🥀",
+    "🪷",
+    "🪻"
+  ],
+  "count": 12,
+  "version": "2026-07-21"
+}

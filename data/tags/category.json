@@ -1,0 +1,8240 @@
+{
+  "#️⃣": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "*️⃣": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "0️⃣": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "1️⃣": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "2️⃣": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "3️⃣": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "4️⃣": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "5️⃣": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "6️⃣": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "7️⃣": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "8️⃣": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "9️⃣": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "©️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "®️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "‼️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⁉️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "™️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "ℹ️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "↔️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "↕️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "↖️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "↗️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "↘️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "↙️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "↩️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "↪️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⏏️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⏩️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⏪️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⏫️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⏬️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⏭️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⏮️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⏯️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⏸️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⏹️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⏺️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "Ⓜ️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "▪️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "▫️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "▶️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "◀️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "◻️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "◼️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "◽️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "◾️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "☀️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "☁️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "☂️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "☃️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "☄️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "☑️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "☔️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "☝️": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "☠️": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "☢️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "☣️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "☦️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "☪️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "☮️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "☯️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "☸️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "☹️": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "☺️": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "♀️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "♂️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "♈️": [
+    {
+      "tag": "zodiac",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    },
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "♉️": [
+    {
+      "tag": "zodiac",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    },
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "♊️": [
+    {
+      "tag": "zodiac",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    },
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "♋️": [
+    {
+      "tag": "zodiac",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    },
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "♌️": [
+    {
+      "tag": "zodiac",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    },
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "♍️": [
+    {
+      "tag": "zodiac",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    },
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "♎️": [
+    {
+      "tag": "zodiac",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    },
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "♏️": [
+    {
+      "tag": "zodiac",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    },
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "♐️": [
+    {
+      "tag": "zodiac",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    },
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "♑️": [
+    {
+      "tag": "zodiac",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    },
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "♒️": [
+    {
+      "tag": "zodiac",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    },
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "♓️": [
+    {
+      "tag": "zodiac",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    },
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "♟️": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "♠️": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "♣️": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "♥️": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "♦️": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "♻️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "♾️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "♿️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⚕️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⚛️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⚜️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⚠️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⚡️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⚧️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⚪️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⚫️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⚽️": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⚾️": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⛄️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⛅️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⛈️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⛎️": [
+    {
+      "tag": "zodiac",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    },
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⛔️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⛱️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⛳️": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⛸️": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "✅️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "✊️": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "✋️": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "✌️": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "✍️": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "✔️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "✖️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "✝️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "✡️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "✨️": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "✳️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "✴️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "❄️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "❇️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "❌️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "❎️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "❓️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "❔️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "❕️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "❗️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "❣️": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "❤️": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "❤️‍🔥": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "❤️‍🩹": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "➕️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "➖️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "➗️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "➡️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "➰️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "➿️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⤴️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⤵️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⬅️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⬆️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⬇️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⬛️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⬜️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⭐️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "⭕️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "〰️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "〽️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "㊗️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "㊙️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🀄️": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🃏": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🅰️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🅱️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🅾️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🅿️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🆎": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🆑": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🆒": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🆓": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🆔": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🆕": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🆖": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🆗": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🆘": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🆙": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🆚": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇦🇨": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇦🇩": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇦🇪": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇦🇫": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇦🇬": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇦🇮": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇦🇱": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇦🇲": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇦🇴": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇦🇶": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇦🇷": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇦🇸": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇦🇹": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇦🇺": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇦🇼": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇦🇽": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇦🇿": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇧🇦": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇧🇧": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇧🇩": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇧🇪": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇧🇫": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇧🇬": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇧🇭": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇧🇮": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇧🇯": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇧🇱": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇧🇲": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇧🇳": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇧🇴": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇧🇶": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇧🇷": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇧🇸": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇧🇹": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇧🇻": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇧🇼": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇧🇾": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇧🇿": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇨🇦": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇨🇨": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇨🇩": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇨🇫": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇨🇬": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇨🇭": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇨🇮": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇨🇰": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇨🇱": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇨🇲": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇨🇳": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇨🇴": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇨🇵": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇨🇶": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇨🇷": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇨🇺": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇨🇻": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇨🇼": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇨🇽": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇨🇾": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇨🇿": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇩🇪": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇩🇬": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇩🇯": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇩🇰": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇩🇲": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇩🇴": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇩🇿": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇪🇦": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇪🇨": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇪🇪": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇪🇬": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇪🇭": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇪🇷": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇪🇸": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇪🇹": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇪🇺": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇫🇮": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇫🇯": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇫🇰": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇫🇲": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇫🇴": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇫🇷": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇬🇦": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇬🇧": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇬🇩": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇬🇪": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇬🇫": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇬🇬": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇬🇭": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇬🇮": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇬🇱": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇬🇲": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇬🇳": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇬🇵": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇬🇶": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇬🇷": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇬🇸": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇬🇹": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇬🇺": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇬🇼": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇬🇾": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇭🇰": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇭🇲": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇭🇳": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇭🇷": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇭🇹": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇭🇺": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇮🇨": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇮🇩": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇮🇪": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇮🇱": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇮🇲": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇮🇳": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇮🇴": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇮🇶": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇮🇷": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇮🇸": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇮🇹": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇯🇪": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇯🇲": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇯🇴": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇯🇵": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇰🇪": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇰🇬": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇰🇭": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇰🇮": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇰🇲": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇰🇳": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇰🇵": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇰🇷": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇰🇼": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇰🇾": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇰🇿": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇱🇦": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇱🇧": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇱🇨": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇱🇮": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇱🇰": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇱🇷": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇱🇸": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇱🇹": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇱🇺": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇱🇻": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇱🇾": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇦": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇨": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇩": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇪": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇫": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇬": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇭": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇰": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇱": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇲": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇳": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇴": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇵": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇶": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇷": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇸": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇹": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇺": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇻": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇼": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇽": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇾": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇲🇿": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇳🇦": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇳🇨": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇳🇪": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇳🇫": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇳🇬": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇳🇮": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇳🇱": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇳🇴": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇳🇵": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇳🇷": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇳🇺": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇳🇿": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇴🇲": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇵🇦": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇵🇪": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇵🇫": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇵🇬": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇵🇭": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇵🇰": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇵🇱": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇵🇲": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇵🇳": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇵🇷": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇵🇸": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇵🇹": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇵🇼": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇵🇾": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇶🇦": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇷🇪": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇷🇴": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇷🇸": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇷🇺": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇷🇼": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇸🇦": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇸🇧": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇸🇨": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇸🇩": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇸🇪": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇸🇬": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇸🇭": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇸🇮": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇸🇯": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇸🇰": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇸🇱": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇸🇲": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇸🇳": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇸🇴": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇸🇷": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇸🇸": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇸🇹": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇸🇻": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇸🇽": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇸🇾": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇸🇿": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇹🇦": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇹🇨": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇹🇩": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇹🇫": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇹🇬": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇹🇭": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇹🇯": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇹🇰": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇹🇱": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇹🇲": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇹🇳": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇹🇴": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇹🇷": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇹🇹": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇹🇻": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇹🇼": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇹🇿": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇺🇦": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇺🇬": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇺🇲": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇺🇳": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇺🇸": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇺🇾": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇺🇿": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇻🇦": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇻🇨": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇻🇪": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇻🇬": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇻🇮": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇻🇳": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇻🇺": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇼🇫": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇼🇸": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇽🇰": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇾🇪": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇾🇹": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇿🇦": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇿🇲": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🇿🇼": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🈁": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🈂️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🈚️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🈯️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🈲": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🈳": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🈴": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🈵": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🈶": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🈷️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🈸": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🈹": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🈺": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🉐": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🉑": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌀": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌂": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌈": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌊": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌌": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌑": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌒": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌓": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌔": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌕️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌖": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌗": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌘": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌙": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌚": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌛": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌜️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌝": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌞": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌟": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌠": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌡️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌤️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌥️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌦️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌧️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌨️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌩️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌪️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌫️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌬️": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌷": [
+    {
+      "tag": "flowers",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌸": [
+    {
+      "tag": "flowers",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌹": [
+    {
+      "tag": "flowers",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌺": [
+    {
+      "tag": "flowers",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌻": [
+    {
+      "tag": "flowers",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🌼": [
+    {
+      "tag": "flowers",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🍅": [
+    {
+      "tag": "fruit",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🍇": [
+    {
+      "tag": "fruit",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🍈": [
+    {
+      "tag": "fruit",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🍉": [
+    {
+      "tag": "fruit",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🍊": [
+    {
+      "tag": "fruit",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🍋": [
+    {
+      "tag": "fruit",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🍋‍🟩": [
+    {
+      "tag": "fruit",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🍌": [
+    {
+      "tag": "fruit",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🍍": [
+    {
+      "tag": "fruit",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🍎": [
+    {
+      "tag": "fruit",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🍏": [
+    {
+      "tag": "fruit",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🍐": [
+    {
+      "tag": "fruit",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🍑": [
+    {
+      "tag": "fruit",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🍒": [
+    {
+      "tag": "fruit",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🍓": [
+    {
+      "tag": "fruit",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎀": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎁": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎃": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎄": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎆": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎇": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎈": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎉": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎊": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎋": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎌": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎍": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎎": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎏": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎐": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎑": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎖️": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎗️": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎟️": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎣": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎦": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎨": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎫": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎭️": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎮️": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎯": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎰": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎱": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎲": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎳": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎴": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎽": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎾": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🎿": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🏀": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🏁": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🏅": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🏆️": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🏈": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🏉": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🏏": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🏐": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🏑": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🏒": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🏓": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🏧": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🏳️": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🏳️‍⚧️": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🏳️‍🌈": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🏴": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🏴‍☠️": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🏴󠁧󠁢󠁥󠁮󠁧󠁿": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🏴󠁧󠁢󠁳󠁣󠁴󠁿": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🏵️": [
+    {
+      "tag": "flowers",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🏸": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐀": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐁": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐂": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐃": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐄": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐅": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐆": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐇": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐈‍⬛": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐈️": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐉": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐊": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐋": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐌": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐍": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐎": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐏": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐐": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐑": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐒": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐓": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐔": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐕‍🦺": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐕️": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐖": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐗": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐘": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐙": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐚": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐛": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐜": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐝": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐞": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐟️": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐠": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐡": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐢": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐣": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐤": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐥": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐦‍⬛": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐦‍🔥": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐦️": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐧": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐨": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐩": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐪": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐫": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐬": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐭": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐮": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐯": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐰": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐱": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐲": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐳": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐴": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐵": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐶": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐷": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐸": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐹": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐺": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐻": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐻‍❄️": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐼": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐽": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐾": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🐿️": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👆️": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👇️": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👈️": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👉️": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👊": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👋": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👌": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👍️": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👎️": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👏": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👐": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👮": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👰": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👲": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👳": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👷": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👸": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👹": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👺": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👻": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👽️": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👾": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "👿": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💀": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💂": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💅": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💌": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💐": [
+    {
+      "tag": "flowers",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💓": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💔": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💕": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💖": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💗": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💘": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💙": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💚": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💛": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💜": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💝": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💞": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💟": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💠": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💧": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💩": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💮": [
+    {
+      "tag": "flowers",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💱": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "💲": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "📛": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "📳": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "📴": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "📵": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "📶": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔀": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔁": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔂": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔃": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔄": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔅": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔆": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔘": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔙": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔚": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔛": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔜": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔝": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔞": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔟": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔠": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔡": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔢": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔣": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔤": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔥": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔫": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔮": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔯": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔰": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔱": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔲": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔳": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔴": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔵": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔶": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔷": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔸": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔹": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔺": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔻": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔼": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🔽": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🕉️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🕊️": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🕎": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🕵️": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🕷️": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🕸️": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🕹️": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🖐️": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🖕": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🖖": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🖤": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🖼️": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😀": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😁": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😂": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😃": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😄": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😅": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😆": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😇": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😈": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😉": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😊": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😋": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😌": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😍": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😎": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😏": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😐️": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😑": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😒": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😓": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😔": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😕": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😖": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😗": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😘": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😙": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😚": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😛": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😜": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😝": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😞": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😟": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😠": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😡": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😢": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😣": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😤": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😥": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😦": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😧": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😨": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😩": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😪": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😫": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😬": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😭": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😮": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😮‍💨": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😯": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😰": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😱": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😲": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😳": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😴": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😵": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😵‍💫": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😶": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😶‍🌫️": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😷": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😸": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😹": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😺": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😻": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😼": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😽": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😾": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "😿": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🙀": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🙁": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🙂": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🙂‍↔️": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🙂‍↕️": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🙃": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🙄": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🙈": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🙉": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🙊": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🙌": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🙏": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🚩": [
+    {
+      "tag": "flags",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🚫": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🚭️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🚮": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🚯": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🚰": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🚱": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🚳": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🚷": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🚸": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🚹️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🚺️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🚻": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🚼️": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🚾": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🛂": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🛃": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🛄": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🛅": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🛐": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🛜": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🛷": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🟠": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🟡": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🟢": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🟣": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🟤": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🟥": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🟦": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🟧": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🟨": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🟩": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🟪": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🟫": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🟰": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤌": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤍": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤎": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤏": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤐": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤑": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤒": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤓": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤔": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤕": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤖": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤗": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤘": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤙": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤚": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤛": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤜": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤝": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤞": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤟": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤠": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤡": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤢": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤣": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤤": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤥": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤧": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤨": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤩": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤪": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤫": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤬": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤭": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤮": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤯": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤰": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤱": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤲": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤳": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤴": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤵": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🤿": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥀": [
+    {
+      "tag": "flowers",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥅": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥇": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥈": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥉": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥊": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥋": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥌": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥍": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥎": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥏": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥝": [
+    {
+      "tag": "fruit",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥥": [
+    {
+      "tag": "fruit",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥭": [
+    {
+      "tag": "fruit",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥰": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥱": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥲": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥳": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥴": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥵": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥶": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥷": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥸": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥹": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🥺": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦀": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦁": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦂": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦃": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦄": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦅": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦆": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦇": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦈": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦉": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦊": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦋": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦌": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦍": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦎": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦏": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦐": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦑": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦒": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦓": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦔": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦕": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦖": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦗": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦘": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦙": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦚": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦛": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦜": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦝": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦞": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦟": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦠": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦡": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦢": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦣": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦤": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦥": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦦": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦧": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦨": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦩": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦪": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦫": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦬": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦭": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🦮": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧐": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧑‍⚕️": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧑‍⚖️": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧑‍✈️": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧑‍🌾": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧑‍🍳": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧑‍🍼": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧑‍🎓": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧑‍🎤": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧑‍🎨": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧑‍🏫": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧑‍🏭": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧑‍💻": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧑‍💼": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧑‍🔧": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧑‍🔬": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧑‍🚀": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧑‍🚒": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧕": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧡": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧧": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧨": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧩": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧵": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧶": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🧸": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🩵": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🩶": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🩷": [
+    {
+      "tag": "hearts",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🪀": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🪁": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🪄": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🪅": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🪆": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🪐": [
+    {
+      "tag": "weather",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🪡": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🪢": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🪩": [
+    {
+      "tag": "activities",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🪯": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🪰": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🪱": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🪲": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🪳": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🪶": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🪷": [
+    {
+      "tag": "flowers",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🪸": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🪻": [
+    {
+      "tag": "flowers",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🪼": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🪽": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🪿": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫃": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫄": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫅": [
+    {
+      "tag": "professions",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫎": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫏": [
+    {
+      "tag": "animals",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫐": [
+    {
+      "tag": "fruit",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫒": [
+    {
+      "tag": "fruit",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫟": [
+    {
+      "tag": "symbols",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫠": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫡": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫢": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫣": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫤": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫥": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫨": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫩": [
+    {
+      "tag": "faces",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫰": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫱": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫲": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫳": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫴": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫵": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫶": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫷": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ],
+  "🫸": [
+    {
+      "tag": "gestures",
+      "facet": "category",
+      "confidence": 1,
+      "source": "programmatic"
+    }
+  ]
+}

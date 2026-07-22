@@ -100,6 +100,9 @@ function versionString(v) {
   return Number.isInteger(v) ? `${v}.0` : String(v);
 }
 
+const raw = readJSON(`${ROOT}/data/raw.json`);
+const SUBGROUP_KEYS = raw.subgroup_keys || {};
+
 function makeRecord(source, { base, skinTone, hasSkins }) {
   const g = genderOf(source.hexcode);
   return {
@@ -116,11 +119,10 @@ function makeRecord(source, { base, skinTone, hasSkins }) {
     _keywords: source.tags || [],
     _hasSkins: hasSkins,
     _group: source.group,
+    _subgroup: SUBGROUP_KEYS[source.subgroup] ?? null,
     _genderConfidence: g.confidence,
   };
 }
-
-const raw = readJSON(`${ROOT}/data/raw.json`);
 const records = [];
 
 for (const entry of raw.emojis) {

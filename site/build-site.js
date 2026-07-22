@@ -22,6 +22,9 @@ const FACETS = {
   vibe: { title: "Vibe", blurb: "The feeling it gives off." },
   object: { title: "Object", blurb: "The thing it depicts." },
   domain: { title: "Domain", blurb: "The industry it belongs to." },
+  theme: { title: "Theme", blurb: "Moments and topics: summer, space, school, trading." },
+  category: { title: "Category", blurb: "Straight from the Unicode structure: flags, faces, hands, animals. Variants included." },
+  set: { title: "Sets", blurb: "Hand curated packs: the reaction canon, kid friendly fun, check marks." },
   color: { title: "Color", blurb: "Dominant hue, measured from the artwork. Tagged only when one hue covers 45% of the fill." },
   safety: { title: "Safety", blurb: "Content apps may want to exclude. Every tag is human reviewed." },
   gender: { title: "Gender", blurb: "The gender presentation of the figure, kept per record." },
@@ -187,7 +190,8 @@ function chip(col) {
 function heroWindow(model) {
   const pick = (slug) => model.collections.find((c) => c.slug === slug);
   const sections = [
-    { label: "VIBE", slugs: ["cozy", "spooky", "retro"] },
+    { label: "VIBE", slugs: ["cozy", "spooky"] },
+    { label: "CATEGORY", slugs: ["weather", "flags"] },
     { label: "OBJECT", slugs: ["food", "vehicle"] },
     { label: "SAFETY · EXCLUDE MODE", slugs: ["violent", "substances"] },
   ];
@@ -249,7 +253,7 @@ function marquee(model) {
 
 function facetCards(model) {
   const cards = [];
-  for (const facet of ["vibe", "object", "domain", "color", "safety"]) {
+  for (const facet of ["vibe", "theme", "category", "object", "domain", "set", "color", "safety"]) {
     const list = model.byFacet[facet] || [];
     if (!list.length) continue;
     const info = FACETS[facet];

@@ -1,0 +1,14 @@
+{
+  "slug": "check-marks",
+  "tag": "check-marks",
+  "title": "Check Marks",
+  "facet": "set",
+  "mode": "include",
+  "emojis": [
+    "☑️",
+    "✅️",
+    "✔️"
+  ],
+  "count": 3,
+  "version": "2026-07-21"
+}

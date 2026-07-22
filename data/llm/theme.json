@@ -1,0 +1,1142 @@
+{
+  "⌨️": [
+    {
+      "tag": "ai",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "⏰️": [
+    {
+      "tag": "school",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "⏱️": [
+    {
+      "tag": "competition",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "☀️": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.9,
+      "source": "llm"
+    }
+  ],
+  "☄️": [
+    {
+      "tag": "space",
+      "facet": "theme",
+      "confidence": 0.85,
+      "source": "llm"
+    }
+  ],
+  "☔️": [
+    {
+      "tag": "spring",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "⚖️": [
+    {
+      "tag": "trading",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "⚙️": [
+    {
+      "tag": "ai",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "⛱️": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.9,
+      "source": "llm"
+    }
+  ],
+  "⛵️": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "✏️": [
+    {
+      "tag": "school",
+      "facet": "theme",
+      "confidence": 0.85,
+      "source": "llm"
+    }
+  ],
+  "✨️": [
+    {
+      "tag": "space",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "⭐️": [
+    {
+      "tag": "space",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "🌈": [
+    {
+      "tag": "spring",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "🌊": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "🌌": [
+    {
+      "tag": "space",
+      "facet": "theme",
+      "confidence": 0.9,
+      "source": "llm"
+    }
+  ],
+  "🌍️": [
+    {
+      "tag": "space",
+      "facet": "theme",
+      "confidence": 0.75,
+      "source": "llm"
+    }
+  ],
+  "🌎️": [
+    {
+      "tag": "space",
+      "facet": "theme",
+      "confidence": 0.75,
+      "source": "llm"
+    }
+  ],
+  "🌏️": [
+    {
+      "tag": "space",
+      "facet": "theme",
+      "confidence": 0.75,
+      "source": "llm"
+    }
+  ],
+  "🌑": [
+    {
+      "tag": "space",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "🌕️": [
+    {
+      "tag": "space",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "🌙": [
+    {
+      "tag": "space",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "🌞": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.85,
+      "source": "llm"
+    }
+  ],
+  "🌟": [
+    {
+      "tag": "space",
+      "facet": "theme",
+      "confidence": 0.75,
+      "source": "llm"
+    }
+  ],
+  "🌠": [
+    {
+      "tag": "space",
+      "facet": "theme",
+      "confidence": 0.85,
+      "source": "llm"
+    }
+  ],
+  "🌦️": [
+    {
+      "tag": "spring",
+      "facet": "theme",
+      "confidence": 0.75,
+      "source": "llm"
+    }
+  ],
+  "🌱": [
+    {
+      "tag": "spring",
+      "facet": "theme",
+      "confidence": 0.9,
+      "source": "llm"
+    }
+  ],
+  "🌴": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "🌷": [
+    {
+      "tag": "spring",
+      "facet": "theme",
+      "confidence": 0.9,
+      "source": "llm"
+    }
+  ],
+  "🌸": [
+    {
+      "tag": "spring",
+      "facet": "theme",
+      "confidence": 0.9,
+      "source": "llm"
+    }
+  ],
+  "🌺": [
+    {
+      "tag": "spring",
+      "facet": "theme",
+      "confidence": 0.75,
+      "source": "llm"
+    }
+  ],
+  "🌻": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "🌼": [
+    {
+      "tag": "spring",
+      "facet": "theme",
+      "confidence": 0.85,
+      "source": "llm"
+    }
+  ],
+  "🌿": [
+    {
+      "tag": "spring",
+      "facet": "theme",
+      "confidence": 0.75,
+      "source": "llm"
+    }
+  ],
+  "🍀": [
+    {
+      "tag": "spring",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "🍉": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.85,
+      "source": "llm"
+    }
+  ],
+  "🍎": [
+    {
+      "tag": "school",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "🍦": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "🍧": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "🍹": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "🎁": [
+    {
+      "tag": "shopping",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "🎒": [
+    {
+      "tag": "school",
+      "facet": "theme",
+      "confidence": 0.9,
+      "source": "llm"
+    }
+  ],
+  "🎓️": [
+    {
+      "tag": "school",
+      "facet": "theme",
+      "confidence": 0.9,
+      "source": "llm"
+    }
+  ],
+  "🎖️": [
+    {
+      "tag": "competition",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "🎯": [
+    {
+      "tag": "competition",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "🎽": [
+    {
+      "tag": "competition",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "🏁": [
+    {
+      "tag": "competition",
+      "facet": "theme",
+      "confidence": 0.85,
+      "source": "llm"
+    }
+  ],
+  "🏄️": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.85,
+      "source": "llm"
+    }
+  ],
+  "🏅": [
+    {
+      "tag": "competition",
+      "facet": "theme",
+      "confidence": 0.9,
+      "source": "llm"
+    }
+  ],
+  "🏆️": [
+    {
+      "tag": "competition",
+      "facet": "theme",
+      "confidence": 0.95,
+      "source": "llm"
+    }
+  ],
+  "🏊️": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "🏖️": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.95,
+      "source": "llm"
+    }
+  ],
+  "🏝️": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.9,
+      "source": "llm"
+    }
+  ],
+  "🏦": [
+    {
+      "tag": "trading",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "🏪": [
+    {
+      "tag": "shopping",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "🏫": [
+    {
+      "tag": "school",
+      "facet": "theme",
+      "confidence": 0.95,
+      "source": "llm"
+    }
+  ],
+  "🏬": [
+    {
+      "tag": "shopping",
+      "facet": "theme",
+      "confidence": 0.85,
+      "source": "llm"
+    }
+  ],
+  "🏷️": [
+    {
+      "tag": "shopping",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "🐂": [
+    {
+      "tag": "trading",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "🐇": [
+    {
+      "tag": "spring",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "🐚": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "🐛": [
+    {
+      "tag": "spring",
+      "facet": "theme",
+      "confidence": 0.65,
+      "source": "llm"
+    }
+  ],
+  "🐝": [
+    {
+      "tag": "spring",
+      "facet": "theme",
+      "confidence": 0.75,
+      "source": "llm"
+    }
+  ],
+  "🐞": [
+    {
+      "tag": "spring",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "🐣": [
+    {
+      "tag": "spring",
+      "facet": "theme",
+      "confidence": 0.85,
+      "source": "llm"
+    }
+  ],
+  "🐻": [
+    {
+      "tag": "trading",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "👑": [
+    {
+      "tag": "competition",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "👗": [
+    {
+      "tag": "shopping",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "👙": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "👜": [
+    {
+      "tag": "shopping",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "👠": [
+    {
+      "tag": "shopping",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "👽️": [
+    {
+      "tag": "space",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "👾": [
+    {
+      "tag": "ai",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    },
+    {
+      "tag": "space",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "💐": [
+    {
+      "tag": "spring",
+      "facet": "theme",
+      "confidence": 0.75,
+      "source": "llm"
+    }
+  ],
+  "💡": [
+    {
+      "tag": "ai",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "💪": [
+    {
+      "tag": "competition",
+      "facet": "theme",
+      "confidence": 0.65,
+      "source": "llm"
+    }
+  ],
+  "💰️": [
+    {
+      "tag": "shopping",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    },
+    {
+      "tag": "trading",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "💱": [
+    {
+      "tag": "trading",
+      "facet": "theme",
+      "confidence": 0.85,
+      "source": "llm"
+    }
+  ],
+  "💲": [
+    {
+      "tag": "trading",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "💳️": [
+    {
+      "tag": "shopping",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "💵": [
+    {
+      "tag": "trading",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "💸": [
+    {
+      "tag": "shopping",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "💹": [
+    {
+      "tag": "trading",
+      "facet": "theme",
+      "confidence": 0.9,
+      "source": "llm"
+    }
+  ],
+  "💻️": [
+    {
+      "tag": "ai",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "💾": [
+    {
+      "tag": "ai",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "📈": [
+    {
+      "tag": "trading",
+      "facet": "theme",
+      "confidence": 0.95,
+      "source": "llm"
+    }
+  ],
+  "📉": [
+    {
+      "tag": "trading",
+      "facet": "theme",
+      "confidence": 0.95,
+      "source": "llm"
+    }
+  ],
+  "📊": [
+    {
+      "tag": "trading",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "📏": [
+    {
+      "tag": "school",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "📐": [
+    {
+      "tag": "school",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "📒": [
+    {
+      "tag": "school",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "📓": [
+    {
+      "tag": "school",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "📔": [
+    {
+      "tag": "school",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "📖": [
+    {
+      "tag": "school",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "📚️": [
+    {
+      "tag": "school",
+      "facet": "theme",
+      "confidence": 0.9,
+      "source": "llm"
+    }
+  ],
+  "📝": [
+    {
+      "tag": "school",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "📡": [
+    {
+      "tag": "ai",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "🔌": [
+    {
+      "tag": "ai",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "🔥": [
+    {
+      "tag": "competition",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "🔬": [
+    {
+      "tag": "school",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "🔭": [
+    {
+      "tag": "space",
+      "facet": "theme",
+      "confidence": 0.85,
+      "source": "llm"
+    }
+  ],
+  "🕶️": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "🖍️": [
+    {
+      "tag": "school",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "🖥️": [
+    {
+      "tag": "ai",
+      "facet": "theme",
+      "confidence": 0.65,
+      "source": "llm"
+    }
+  ],
+  "😎": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.75,
+      "source": "llm"
+    }
+  ],
+  "🚀": [
+    {
+      "tag": "space",
+      "facet": "theme",
+      "confidence": 0.95,
+      "source": "llm"
+    }
+  ],
+  "🚌": [
+    {
+      "tag": "school",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "🛍️": [
+    {
+      "tag": "shopping",
+      "facet": "theme",
+      "confidence": 0.95,
+      "source": "llm"
+    }
+  ],
+  "🛒": [
+    {
+      "tag": "shopping",
+      "facet": "theme",
+      "confidence": 0.95,
+      "source": "llm"
+    }
+  ],
+  "🛰️": [
+    {
+      "tag": "ai",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    },
+    {
+      "tag": "space",
+      "facet": "theme",
+      "confidence": 0.9,
+      "source": "llm"
+    }
+  ],
+  "🛸": [
+    {
+      "tag": "space",
+      "facet": "theme",
+      "confidence": 0.9,
+      "source": "llm"
+    }
+  ],
+  "🤖": [
+    {
+      "tag": "ai",
+      "facet": "theme",
+      "confidence": 0.95,
+      "source": "llm"
+    }
+  ],
+  "🤝": [
+    {
+      "tag": "trading",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "🤺": [
+    {
+      "tag": "competition",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "🥇": [
+    {
+      "tag": "competition",
+      "facet": "theme",
+      "confidence": 0.95,
+      "source": "llm"
+    }
+  ],
+  "🥈": [
+    {
+      "tag": "competition",
+      "facet": "theme",
+      "confidence": 0.9,
+      "source": "llm"
+    }
+  ],
+  "🥉": [
+    {
+      "tag": "competition",
+      "facet": "theme",
+      "confidence": 0.9,
+      "source": "llm"
+    }
+  ],
+  "🥋": [
+    {
+      "tag": "competition",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "🥥": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "🦋": [
+    {
+      "tag": "spring",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "🦾": [
+    {
+      "tag": "ai",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "🦿": [
+    {
+      "tag": "ai",
+      "facet": "theme",
+      "confidence": 0.75,
+      "source": "llm"
+    }
+  ],
+  "🧊": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "🧑‍🎓": [
+    {
+      "tag": "school",
+      "facet": "theme",
+      "confidence": 0.9,
+      "source": "llm"
+    }
+  ],
+  "🧑‍🏫": [
+    {
+      "tag": "school",
+      "facet": "theme",
+      "confidence": 0.95,
+      "source": "llm"
+    }
+  ],
+  "🧑‍💻": [
+    {
+      "tag": "school",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "🧑‍🚀": [
+    {
+      "tag": "space",
+      "facet": "theme",
+      "confidence": 0.95,
+      "source": "llm"
+    }
+  ],
+  "🧠": [
+    {
+      "tag": "ai",
+      "facet": "theme",
+      "confidence": 0.85,
+      "source": "llm"
+    }
+  ],
+  "🧪": [
+    {
+      "tag": "school",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "🧮": [
+    {
+      "tag": "ai",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    },
+    {
+      "tag": "school",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "🧴": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.65,
+      "source": "llm"
+    }
+  ],
+  "🧾": [
+    {
+      "tag": "shopping",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    },
+    {
+      "tag": "trading",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    }
+  ],
+  "🩱": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.7,
+      "source": "llm"
+    }
+  ],
+  "🩴": [
+    {
+      "tag": "summer",
+      "facet": "theme",
+      "confidence": 0.8,
+      "source": "llm"
+    }
+  ],
+  "🪐": [
+    {
+      "tag": "space",
+      "facet": "theme",
+      "confidence": 0.95,
+      "source": "llm"
+    }
+  ],
+  "🪙": [
+    {
+      "tag": "shopping",
+      "facet": "theme",
+      "confidence": 0.6,
+      "source": "llm"
+    },
+    {
+      "tag": "trading",
+      "facet": "theme",
+      "confidence": 0.75,
+      "source": "llm"
+    }
+  ],
+  "🪺": [
+    {
+      "tag": "spring",
+      "facet": "theme",
+      "confidence": 0.75,
+      "source": "llm"
+    }
+  ],
+  "🪻": [
+    {
+      "tag": "spring",
+      "facet": "theme",
+      "confidence": 0.75,
+      "source": "llm"
+    }
+  ]
+}

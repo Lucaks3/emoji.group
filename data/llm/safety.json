@@ -311,6 +311,14 @@
       "source": "llm"
     }
   ],
+  "🖕": [
+    {
+      "tag": "offensive",
+      "facet": "safety",
+      "confidence": 0.95,
+      "source": "llm"
+    }
+  ],
   "🗡️": [
     {
       "tag": "violent",
@@ -332,6 +340,14 @@
       "tag": "substances",
       "facet": "safety",
       "confidence": 0.95,
+      "source": "llm"
+    }
+  ],
+  "🤬": [
+    {
+      "tag": "offensive",
+      "facet": "safety",
+      "confidence": 0.8,
       "source": "llm"
     }
   ],

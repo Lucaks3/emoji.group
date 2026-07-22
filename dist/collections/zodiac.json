@@ -1,0 +1,24 @@
+{
+  "slug": "zodiac",
+  "tag": "zodiac",
+  "title": "Zodiac",
+  "facet": "category",
+  "mode": "include",
+  "emojis": [
+    "♈️",
+    "♉️",
+    "♊️",
+    "♋️",
+    "♌️",
+    "♍️",
+    "♎️",
+    "♏️",
+    "♐️",
+    "♑️",
+    "♒️",
+    "♓️",
+    "⛎️"
+  ],
+  "count": 13,
+  "version": "2026-07-21"
+}

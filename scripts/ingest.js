@@ -11,17 +11,23 @@ const emojis = require("emojibase-data/en/data.json");
 const messages = require("emojibase-data/en/messages.json");
 const pkg = readJSON(`${ROOT}/node_modules/emojibase-data/package.json`);
 
-// Group and subgroup labels, keyed by their numeric ids, for later reference.
+// Group and subgroup labels plus stable subgroup keys (e.g. "food-fruit"),
+// keyed by their numeric ids, for later reference.
 const groups = {};
 for (const g of messages.groups) groups[g.order] = g.message;
 const subgroups = {};
-for (const s of messages.subgroups) subgroups[s.order] = s.message;
+const subgroupKeys = {};
+for (const s of messages.subgroups) {
+  subgroups[s.order] = s.message;
+  subgroupKeys[s.order] = s.key;
+}
 
 const raw = {
   generator: "emoji-collections ingest",
   emojibase_version: pkg.version,
   groups,
   subgroups,
+  subgroup_keys: subgroupKeys,
   emojis,
 };
 

@@ -149,6 +149,30 @@ function checkChars(emojis) {
   }
 }
 
+// Kid safety invariants: nothing in a blocklist may appear in kid-safe, and
+// the curated fun set (built for kids) must be a strict subset of kid-safe.
+function checkKidSafety() {
+  const kidPath = `${ROOT}/dist/collections/kid-safe.json`;
+  if (!existsSync(kidPath)) return;
+  const kidSafe = new Set(readJSON(kidPath).emojis);
+  const blockDir = `${ROOT}/dist/blocklists`;
+  if (existsSync(blockDir)) {
+    for (const file of readdirSync(blockDir)) {
+      if (!file.endsWith(".json") || file === "index.json") continue;
+      const block = readJSON(`${blockDir}/${file}`);
+      for (const ch of block.emojis) {
+        if (kidSafe.has(ch)) fail(`kid-safe contains blocklisted emoji ${ch} (${block.slug})`);
+      }
+    }
+  }
+  const funPath = `${ROOT}/dist/collections/fun.json`;
+  if (existsSync(funPath)) {
+    for (const ch of readJSON(funPath).emojis) {
+      if (!kidSafe.has(ch)) fail(`fun contains ${ch}, which is not kid-safe`);
+    }
+  }
+}
+
 function reportUntagged(emojis) {
   const structural = new Set(["gender", "skin-tone"]);
   const zero = emojis.filter((e) => e.tags.length === 0);
@@ -160,6 +184,7 @@ function run() {
   const { emojis, checked } = checkSchema();
   checkDuplicates(emojis);
   checkChars(emojis);
+  checkKidSafety();
 
   const index = readJSON(`${ROOT}/dist/collections/index.json`);
   const rows = index.collections.map((c) => [c.slug, c.facet, c.mode, c.count]);

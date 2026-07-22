@@ -2,16 +2,19 @@
   "name": "emoji.group",
   "version": "2026-07-21",
   "emojis": 3816,
-  "collections": 55,
-  "blocklists": 4,
+  "collections": 79,
+  "blocklists": 5,
   "facets": [
     "audience",
+    "category",
     "color",
     "domain",
     "gender",
     "object",
     "safety",
+    "set",
     "skin-tone",
+    "theme",
     "vibe"
   ],
   "files": {

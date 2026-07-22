@@ -1,0 +1,1072 @@
+{
+  "☀️": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "☑️": [
+    {
+      "tag": "check-marks",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "⚽️": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "⚾️": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "⛵️": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "⛸️": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "✅️": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    },
+    {
+      "tag": "check-marks",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "✔️": [
+    {
+      "tag": "check-marks",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "✨️": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "❌️": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "❤️": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "⭐️": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🌈": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🌙": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🌟": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🌠": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🌸": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🌺": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🌻": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🍀": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🍇": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🍉": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🍌": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🍍": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🍎": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🍒": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🍓": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🍕": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🍦": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🍩": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🍪": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🍭": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🍿": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🎁": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🎂": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🎈": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🎉": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    },
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🎊": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🎠": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🎡": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🎢": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🎨": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🎪": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🎭️": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🎮️": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🎯": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🎳": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🎵": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🎶": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🎸": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🎾": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🏀": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🏆️": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🏈": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🏐": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🏓": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🏖️": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🏰": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🏸": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🐙": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🐢": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🐧": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🐨": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🐬": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🐯": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🐱": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🐳": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🐶": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🐸": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🐼": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🐿️": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "👀": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "👍️": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "👎️": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "👏": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "💀": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "💯": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🔥": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🕹️": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "😂": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "😄": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    },
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "😅": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "😆": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "😉": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "😊": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "😍": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "😎": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "😕": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "😝": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "😡": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "😢": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "😭": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "😮": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🙌": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🙏": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🚀": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    },
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🚂": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🚲️": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🛴": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🛸": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🛹": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🛼": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🤔": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🤣": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🤩": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🤪": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🥁": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🥇": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🥏": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🥝": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🥳": [
+    {
+      "tag": "reactions",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    },
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🦁": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🦄": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🦋": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🦔": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🦕": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🦖": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🦜": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🦩": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🧁": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🧩": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🧸": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🪀": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🪁": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🪄": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🪅": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🪆": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🪐": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🪩": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ],
+  "🫧": [
+    {
+      "tag": "fun",
+      "facet": "set",
+      "confidence": 1,
+      "source": "human"
+    }
+  ]
+}

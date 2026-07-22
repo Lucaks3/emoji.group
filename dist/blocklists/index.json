@@ -1,6 +1,6 @@
 {
   "version": "2026-07-21",
-  "count": 4,
+  "count": 5,
   "blocklists": [
     {
       "slug": "gambling",
@@ -9,6 +9,15 @@
       "facet": "safety",
       "mode": "exclude",
       "count": 3,
+      "version": "2026-07-21"
+    },
+    {
+      "slug": "offensive",
+      "tag": "offensive",
+      "title": "Offensive",
+      "facet": "safety",
+      "mode": "exclude",
+      "count": 7,
       "version": "2026-07-21"
     },
     {
