@@ -187,68 +187,24 @@ function chip(col) {
   return `<a class="chip" href="/${esc(col.slug)}">${sw}<span class="chiptag">${esc(tagOf(col))}</span><span class="chipcount">${num(col.count)}</span></a>`;
 }
 
-function heroWindow(model) {
-  const pick = (slug) => model.collections.find((c) => c.slug === slug);
-  const sections = [
-    { label: "VIBE", slugs: ["cozy", "spooky"] },
-    { label: "CATEGORY", slugs: ["weather", "flags"] },
-    { label: "OBJECT", slugs: ["food", "vehicle"] },
-    { label: "SAFETY · EXCLUDE MODE", slugs: ["violent", "substances"] },
-  ];
-  const rows = sections
-    .map(({ label, slugs }) => {
-      const body = slugs
-        .map((slug) => {
-          const c = pick(slug);
-          if (!c) return "";
-          const live = c.reviewedPct === 100;
-          return `<a class="hrow" href="/${esc(c.slug)}">
-        <span class="hname"><span class="hsample">${sampleOf(c, 3).join("")}</span><span class="hslug">${esc(c.slug)}</span></span>
-        <span class="hfacet">${esc(c.facet)}</span>
-        <span class="hcount">${num(c.count)}</span>
-        <span class="hrev">${c.reviewedPct > 0 ? `${c.reviewedPct}%` : "–"}</span>
-        <span class="hpill ${live ? "live" : "rev"}">${live ? "Live" : "Review"}</span>
-      </a>`;
-        })
-        .join("\n");
-      return `<div class="hsection">${esc(label)}</div>\n${body}`;
-    })
-    .join("\n");
-
-  return `<div class="window reveal" style="--d:.25s">
-  <div class="sidebar">
-    <div class="sbbrand">${LOGO(18)}<span>emoji.group</span></div>
-    <div class="sbitem active">▦&nbsp;&nbsp;Collections <span class="sbn">${model.index.count}</span></div>
-    <div class="sbitem">◎&nbsp;&nbsp;All emojis <span class="sbn">${num(model.meta.emojis)}</span></div>
-    <div class="sbitem">⛨&nbsp;&nbsp;Blocklists <span class="sbn">${model.meta.blocklists}</span></div>
-    <div class="sbitem">✓&nbsp;&nbsp;Review queue</div>
-    <div class="sbitem">↧&nbsp;&nbsp;Exports</div>
-    <div class="sbspacer"></div>
-    <div class="sbitem">⚙&nbsp;&nbsp;Settings</div>
-  </div>
-  <div class="hpane">
-    <div class="hbar">
-      <span class="hbtitle">Collections</span>
-      <span class="hcols"><span>facet</span><span>count</span><span>reviewed</span><span>status</span></span>
-    </div>
-    <div class="hrows">
-${rows}
-    </div>
-  </div>
-</div>`;
-}
-
 function marquee(model) {
-  // A decorative strip of the most recognisable emojis, from the data itself.
-  const picks = [];
-  const want = ["food", "vehicle", "cozy", "spooky", "festive", "cute", "music", "nature", "romantic", "tech"];
-  for (const slug of want) {
-    const col = model.collections.find((c) => c.slug === slug);
-    if (col) picks.push(...sampleOf(col, 5));
-  }
-  const uniq = [...new Set(picks)].slice(0, 44);
-  const cells = uniq.map((c) => `<span>${c}</span>`).join("");
-  return `<div class="marquee" aria-hidden="true"><div class="mtrack">${cells}${cells}</div></div>`;
+  // A scrolling strip of enlarged collection pills: a taste of the catalogue,
+  // each one clickable. A curated spread across facets, not the full list.
+  const want = [
+    "cozy", "food", "flags", "spooky", "ai", "reactions", "summer", "blue",
+    "kid-safe", "vehicle", "hearts", "space", "fun", "retro", "animals", "festive",
+  ];
+  const pills = want
+    .map((slug) => {
+      const c = model.collections.find((x) => x.slug === slug);
+      if (!c) return "";
+      const sw = c.facet === "color" && SWATCH[tagOf(c)]
+        ? `<span class="sw big" style="background:${SWATCH[tagOf(c)]}"></span>`
+        : `<span class="mpglyphs">${sampleOf(c, 3).join("")}</span>`;
+      return `<a class="mpill" href="/${esc(c.slug)}">${sw}<span class="mptag">${esc(c.slug)}</span><span class="mpcount">${num(c.count)}</span></a>`;
+    })
+    .join("");
+  return `<div class="marquee"><div class="mtrack">${pills}${pills}</div></div>`;
 }
 
 function facetCards(model) {
@@ -363,21 +319,20 @@ function buildLanding(model) {
   const { meta } = model;
   return (
     head({
-      title: "emoji.group · the emoji database, curated",
-      description: "Hand reviewed emoji collections, skin tone and gender variants as first class records, and safety blocklists. Static JSON on a CDN, one GET away.",
+      title: "emoji.group · the emoji database, grouped for developers",
+      description: "Stop hand-picking emoji lists. 79 ready-made collections covering all 3,816 emojis, human reviewed safety blocklists included. Static JSON on a CDN, no key, no SDK.",
       path: "/",
     }) +
     nav() +
     `
 <header class="hero">
   <div class="badge reveal"><span class="dot"></span> v${esc(meta.version)} · ${num(meta.emojis)} emojis · ${meta.collections} collections</div>
-  <h1 class="reveal" style="--d:.05s">The emoji database, curated</h1>
-  <p class="lede reveal" style="--d:.1s">Collections sorted by how people actually use emoji: by vibe, by industry, by measured colour. Every variant queryable, every safety call human reviewed. Static JSON, one GET away.</p>
+  <h1 class="reveal" style="--d:.05s">The emoji database, grouped for developers</h1>
+  <p class="lede reveal" style="--d:.1s">Every emoji list you were about to hand-build: food, flags, cozy, kid-safe. ${meta.collections} collections covering all ${num(meta.emojis)} emojis, served as static JSON from a CDN. No key, no SDK, one GET.</p>
   <div class="herobtns reveal" style="--d:.15s">
-    <a class="btn dark" href="#collections">Browse collections</a>
-    <a class="btn ghost" href="#developers">Read the docs →</a>
+    <a class="btn dark" href="#collections">Browse ${meta.collections} collections</a>
+    <a class="btn ghost" href="#developers">See the API →</a>
   </div>
-  ${heroWindow(model)}
 </header>
 
 ${marquee(model)}
