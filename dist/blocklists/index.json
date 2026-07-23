@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-21",
+  "version": "2026-07-23",
   "count": 5,
   "blocklists": [
     {
@@ -9,7 +9,7 @@
       "facet": "safety",
       "mode": "exclude",
       "count": 3,
-      "version": "2026-07-21"
+      "version": "2026-07-23"
     },
     {
       "slug": "offensive",
@@ -19,7 +19,7 @@
       "mode": "exclude",
       "count": 7,
       "count_default": 2,
-      "version": "2026-07-21"
+      "version": "2026-07-23"
     },
     {
       "slug": "substances",
@@ -28,7 +28,7 @@
       "facet": "safety",
       "mode": "exclude",
       "count": 11,
-      "version": "2026-07-21"
+      "version": "2026-07-23"
     },
     {
       "slug": "suggestive",
@@ -37,7 +37,7 @@
       "facet": "safety",
       "mode": "exclude",
       "count": 8,
-      "version": "2026-07-21"
+      "version": "2026-07-23"
     },
     {
       "slug": "violent",
@@ -46,7 +46,7 @@
       "facet": "safety",
       "mode": "exclude",
       "count": 9,
-      "version": "2026-07-21"
+      "version": "2026-07-23"
     }
   ]
 }

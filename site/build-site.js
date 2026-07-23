@@ -733,9 +733,12 @@ function llmsTxt(model) {
 }
 
 function sitemap(model) {
+  // lastmod comes from the dated build version, so it only moves when the
+  // data actually changes and the sitemap stays deterministic.
+  const lastmod = model.meta.version;
   const urls = ["/", ...model.collections.map((c) => `/${c.slug}`)];
   const body = urls
-    .map((u) => `  <url><loc>${ORIGIN}${u}</loc></url>`)
+    .map((u) => `  <url><loc>${ORIGIN}${u}</loc><lastmod>${lastmod}</lastmod></url>`)
     .join("\n");
   return `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${body}\n</urlset>\n`;
 }
