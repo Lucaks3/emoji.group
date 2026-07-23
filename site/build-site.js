@@ -370,6 +370,7 @@ function buildLanding(model) {
           },
           {
             "@type": "Dataset",
+            "@id": `${ORIGIN}/#dataset`,
             name: "emoji.group emoji database",
             description: `${num(meta.emojis)} emojis with curated tags across ${meta.collections} collections: vibe, theme, category, colour, safety blocklists, skin tone and gender variants as first class records.`,
             url: ORIGIN,
@@ -520,12 +521,14 @@ function buildCollection(model, col) {
         "@context": "https://schema.org",
         "@type": "Dataset",
         name: `${col.title} emojis`,
-        description: `The ${col.title.toLowerCase()} emoji collection: ${col.count} emojis, ${col.facet} facet, curated by emoji.group.`,
+        description: `The ${col.title.toLowerCase()} emoji collection: ${col.count} emojis, ${col.facet} facet, curated by emoji.group. Free static JSON, MIT licensed.`,
         url: `${ORIGIN}/${col.slug}`,
         license: "https://opensource.org/license/mit",
         isAccessibleForFree: true,
+        creator: { "@type": "Organization", name: "emoji.group", url: ORIGIN },
         version: col.version,
-        isPartOf: { "@type": "Dataset", name: "emoji.group emoji database", url: ORIGIN },
+        keywords: [col.facet, "emoji", col.tag],
+        isPartOf: { "@id": `${ORIGIN}/#dataset` },
         distribution: [
           {
             "@type": "DataDownload",
